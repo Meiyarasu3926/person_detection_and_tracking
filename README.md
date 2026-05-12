@@ -54,8 +54,8 @@ Image / Video Upload
 
 ## 6. Installation
 ```bash
-git clone https://github.com/<your-username>/security-cam-system.git
-cd security-cam-system
+git clone https://github.com/Meiyarasu3926/person_detection_and_tracking.git
+cd person_detection_and_tracking
 pip install -r requirements.txt
 ```
 
